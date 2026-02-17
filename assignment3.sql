@@ -45,4 +45,5 @@ ORA-00001: unique constraint (SYSTEM.SYS_C008315) violated
 
 SQL> INSERT INTO Department VALUES('107','CEWCA','Block F');
 
+
 1 row created.
