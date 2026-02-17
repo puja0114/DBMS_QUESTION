@@ -5,7 +5,7 @@
 * **Name:** [Puja Kumari]
 * **Roll Number:** [23759]
 * **Registration Number:**[23157128031]
-* **Department:** Computer Science & Engineering
+* **Department:** Computer Science & Engineering(AI&ML)
 * **College:** B.P. Mandal College of Engineering, Madhepura
 * **Course:** Database Management System Lab
 
@@ -107,3 +107,4 @@ This assignment was completed as part of the Database Management System Lab cour
 
 ---
  *Thank you for reviewing this project!*
+
