@@ -47,3 +47,4 @@ SQL> INSERT INTO Department VALUES('107','CEWCA','Block F');
 
 
 1 row created.
+
