@@ -4,9 +4,9 @@
 - **Name:** [Puja Kumari]
 - **Roll Number:** [23759]
 - **Registration Number:**[23157128031]
-- **Course/Branch:** [Your Course/Branch]
-- **Subject:** Database Lab
-- **College:** [Your College Name]
+- **Course/Branch:** [B.TECH/CSE(AI&ML)]
+- **Subject:** Database Management System
+- **College:** [BP Mandal College of Engineering, Madhepura]
 
 ---
 
@@ -90,3 +90,4 @@ This repository is submitted as part of the Database Lab assignment.
 ---
 
  Thank you for reviewing this project!
+
